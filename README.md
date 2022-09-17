@@ -1,4 +1,4 @@
-## Olá eu sou o Kamal (ou Adelson), seja bem vindo ao meu github!
+## Olá eu sou o Adelson (ou Kamal), seja bem vindo ao meu github!
 <div align="center">
   <a href="https://github.com/kamalcwb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalcwb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

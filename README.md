@@ -1,8 +1,6 @@
 ## Olá eu sou o Adelson (ou Kamal), seja bem vindo ao meu github!
 <div align="center">
   <a href="https://github.com/kamalcwb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalcwb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcwb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kamal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
